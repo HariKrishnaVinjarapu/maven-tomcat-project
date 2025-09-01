@@ -8,6 +8,6 @@
     <packaging>war</packaging>
 
     <build>
-        <finalName>simple-jsp-demo</finalName>
+        <finalName>simple-tomcat-app</finalName>
     </build>
 </project>
