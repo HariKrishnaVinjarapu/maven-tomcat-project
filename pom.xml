@@ -49,7 +49,7 @@
     </build>
  <distributionManagement>
         <snapshotRepository>
-            <id>nexus-snapshots</id>
+            <id>nexus</id>
             <url>http://3.91.9.84:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>         
