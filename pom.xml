@@ -50,7 +50,7 @@
  <distributionManagement>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://3.91.9.84:8081/repository/maven-snapshots/</url>
+            <url>http://3.90.56.181:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>         
 
